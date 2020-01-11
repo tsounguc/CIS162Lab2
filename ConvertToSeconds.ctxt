@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ConvertToSeconds
+comment0.text=\r\n\ Description\:\ This\ code\ prompts\ the\ user\ to\ enter\ three\ integers\ for\ hours,\ minutes\ and\ seconds.\ \r\n\ It\ then\ converts\ those\ values\ into\ seconds\ .\r\n\r\n\ @author\ Christian\ Tsoungui\ Nkoulou\r\n\ @version\ 1/16/2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
